@@ -6,6 +6,7 @@ D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Controller\CExperiencia.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Repository\RExperiencia.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Security\Dto\LoginUsuario.java
+D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\WebConfig.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Security\Entity\Rol.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Security\Controller\Mensaje.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Security\Repository\iRolRepository.java
@@ -36,4 +37,4 @@ D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Security\Service\UserDetailsImpl.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Controller\PersonaController.java
 D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Entity\Persona.java
-D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Interface\IPersonaService.java
+D:\Usuario\Desktop\Programacion\TP_Final\Proy_final_CV\Proy_final_CV\Backend\src\main\java\com\porfolio\vc\Dto\dtoPersona.java
