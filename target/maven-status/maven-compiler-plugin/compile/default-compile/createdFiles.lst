@@ -14,6 +14,7 @@ com\porfolio\vc\Service\ImpPersonaService.class
 com\porfolio\vc\Security\Controller\Mensaje.class
 com\porfolio\vc\Security\Controller\AuthController.class
 com\porfolio\vc\Security\jwt\JwtTokenFilter.class
+.netbeans_automatic_build
 com\porfolio\vc\Repository\Rhys.class
 com\porfolio\vc\Controller\CEducacion.class
 com\porfolio\vc\Security\Service\RolService.class
